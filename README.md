@@ -2,7 +2,7 @@
 
 ![Beauty Style Skills cover](assets/cover.png)
 
-把文字主题或授权照片转译为可沟通的个人造型视觉提案。仓库包含六个可独立调用的 Codex Skill；旧的 `hairstyle-upgrade-board` 目录作为兼容别名保留，不计作新的能力包：
+把文字主题或授权照片转译为可沟通的个人造型视觉提案。仓库包含六个主能力包，另保留一个带封面和用法的旧命名兼容别名：
 
 - `facial-style-preview`：非医疗的六区域面部造型预览。
 - `nail-design-board`：从主题或灵感图生成十指美甲清单、模拟上手图和横向 4:3 提案板。

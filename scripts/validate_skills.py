@@ -12,6 +12,7 @@ ROOT = Path(__file__).resolve().parents[1]
 EXPECTED = {
     "facial-style-preview",
     "hairstyle-style-preview",
+    "hairstyle-upgrade-board",
     "nail-design-board",
     "eyewear-style-preview",
     "personal-outfit-studio",
@@ -24,7 +25,7 @@ LOCAL_PREFIX = "/" + "Users/"
 def validate() -> list[str]:
     errors: list[str] = []
     skills_root = ROOT / "skills"
-    actual = {path.name for path in skills_root.iterdir() if path.is_dir() and path.name != "hairstyle-upgrade-board"}
+    actual = {path.name for path in skills_root.iterdir() if path.is_dir()}
     if actual != EXPECTED:
         errors.append(f"skill set mismatch: expected {sorted(EXPECTED)}, found {sorted(actual)}")
 
