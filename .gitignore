@@ -1,0 +1,11 @@
+.DS_Store
+Thumbs.db
+*.docx
+*.pdf
+*.jpg
+*.jpeg
+*.webp
+*.mp4
+output/
+tmp/
+private/

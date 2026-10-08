@@ -1,0 +1,4 @@
+interface:
+  display_name: "发型美学升级报告"
+  short_description: "从授权肖像生成身份保持、自然可执行的发型升级视觉提案报告"
+  default_prompt: "使用 $hairstyle-upgrade-board 为我的照片生成自然、低维护的发型升级提案。"
