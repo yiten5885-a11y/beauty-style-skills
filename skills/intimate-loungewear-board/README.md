@@ -1,5 +1,7 @@
 # Intimate Loungewear Board
 
+![Intimate Loungewear Board cover](assets/cover.png)
+
 内衣与家居服设计 Skill，使用 `innerwear` 或 `loungewear` 模式。
 
 ## 使用方法

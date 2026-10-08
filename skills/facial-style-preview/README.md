@@ -1,5 +1,7 @@
 # Facial Style Preview
 
+![Facial Style Preview cover](assets/cover.png)
+
 面部造型预览 Skill：将授权人像转成非医疗、身份保持的 4:3 造型模拟报告。
 
 ## 使用方法

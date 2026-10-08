@@ -1,5 +1,7 @@
 # Eyewear Style Preview
 
+![Eyewear Style Preview cover](assets/cover.png)
+
 眼镜风格试戴 Skill：把授权人像转成一张 4:3 的镜框风格比较报告。
 
 ## 使用方法

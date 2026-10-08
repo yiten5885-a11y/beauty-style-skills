@@ -1,5 +1,7 @@
 # Nail Design Board
 
+![Nail Design Board cover](assets/cover.png)
+
 美甲灵感设计板 Skill：把主题或灵感图转译为 L1–L5、R1–R5 的完整十指方案和横向 4:3 提案图。
 
 ## 使用方法

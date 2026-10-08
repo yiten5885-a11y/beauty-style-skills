@@ -1,5 +1,7 @@
 # Hairstyle Style Preview
 
+![Hairstyle Style Preview cover](assets/cover.png)
+
 发型风格试换 Skill：从已授权人像生成同人、同衣、只改变发型的 4:3 提案图。
 
 ## 使用方法

@@ -1,5 +1,7 @@
 # Personal Outfit Studio
 
+![Personal Outfit Studio cover](assets/cover.png)
+
 个人穿搭方案 Skill，支持 `inspiration`、`personal-makeover`、`four-season` 三种模式。
 
 ## 使用方法
