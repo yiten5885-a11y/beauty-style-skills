@@ -1,0 +1,7 @@
+interface:
+  display_name: "眼镜风格试戴"
+  short_description: "把授权人像转成可与眼镜店沟通的镜框风格比较报告"
+  default_prompt: "使用 $eyewear-style-preview 根据我上传的授权人像比较不同镜框风格。"
+
+policy:
+  allow_implicit_invocation: true

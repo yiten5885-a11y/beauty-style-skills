@@ -1,0 +1,4 @@
+interface:
+  display_name: "面部造型预览"
+  short_description: "生成保留身份特征的非医疗六区域面部造型对照图文报告"
+  default_prompt: "Use $facial-style-preview to create a non-medical facial styling preview from my portrait and stated style goals."

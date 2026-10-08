@@ -1,0 +1,7 @@
+interface:
+  display_name: "个人穿搭方案"
+  short_description: "用三个模式生成可沟通的灵感、改造或四季穿搭提案"
+  default_prompt: "使用 $personal-outfit-studio 按我指定的模式生成一套穿搭提案。"
+
+policy:
+  allow_implicit_invocation: true

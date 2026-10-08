@@ -1,0 +1,4 @@
+interface:
+  display_name: "发型风格试换"
+  short_description: "从授权肖像生成身份保持、自然可执行的发型风格视觉提案"
+  default_prompt: "使用 $hairstyle-style-preview 为我的照片生成自然、低维护的发型风格提案。"

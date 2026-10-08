@@ -1,0 +1,7 @@
+interface:
+  display_name: "内衣与家居服设计"
+  short_description: "把产品主题与材质意向整理成内衣或家居服品牌提案"
+  default_prompt: "使用 $intimate-loungewear-board，为我做一张内衣或家居服设计提案。"
+
+policy:
+  allow_implicit_invocation: true
